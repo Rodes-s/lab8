@@ -1,6 +1,6 @@
 //question 1//
-let Name = "Rodes";    // Replace "John" with your name
-let age = 18;         // Replace 30 with your age
+let Name = "Rodes";    
+let age = 18;        
 
 console.log(Name ="Name");
 console.log(age = "Age");
@@ -125,6 +125,34 @@ else if (score >= 80 && score < 90) {
 else {
     console.log("Grade C");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
